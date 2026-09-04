@@ -1,0 +1,6 @@
+# Local clone of upstream used by the test scripts
+/RFantibody/
+# Scratch dir created when the target-prep cell runs outside Colab
+/work/
+__pycache__/
+*.pyc
